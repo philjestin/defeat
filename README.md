@@ -1,14 +1,14 @@
-# make-serve
+# defeat
 
 Play Sounds of Silence while running another command
 
 ```
-npm install -g make-serve
+npm install -g defeat
 
-make-serve # just play the sound of defeat
-make-serve sleep 10 # play for 10 s
-make-serve make # when compiling
-make-serve npm install -g dat # installing node modules
+defeat # just play the sound of defeat
+defeat sleep 10 # play for 10 s
+defeat make # when compiling
+defeat npm install -g dat # installing node modules
 ```
 
 ## Linux users
