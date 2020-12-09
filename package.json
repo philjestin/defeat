@@ -1,0 +1,21 @@
+{
+  "name": "defeat",
+  "version": "1.0.0",
+  "description": "Play the sound of defeat",
+  "bin": {
+    "make-serve": "./bin.js"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philjestin/defeated"
+  },
+  "author": "Philip Middleton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philjestin/defeated/issues"
+  },
+  "homepage": "https://github.com/philjestin/defeated"
+}
